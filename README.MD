@@ -11,8 +11,8 @@ Este repositorio contiene enlaces a otros proyectos de la prueba:
 - 📁 ✅ [PARTE 1 – OCR en Web App Full Stack (Python + TypeScript) FRONTEND](https://github.com/HectorManu/PARTE-1)
 - 📁 ✅[PARTE 2 – Web Scraping con Endpoint](https://github.com/HectorManu/PARTE-2)
 - 📁 ✅[PARTE 3 – Chatbot + NLP + Consulta Dinámica](https://github.com/HectorManu/PRUEBA-3)
-- 📁 🔃[PARTE 4 – IA: CNN + API Predictiva]()
-- 📁 🔃[PARTE 5 – RESOLUCIÓN DE PROBLEMAS & DECISION MAKING (AI & Automation Lead)]()
+- 📁 ✅[PARTE 4 – IA: CNN + API Predictiva](https://github.com/HectorManu/PARTE-4)
+- 📁 ✅[PARTE 5 – RESOLUCIÓN DE PROBLEMAS & DECISION MAKING (AI & Automation Lead)](https://github.com/HectorManu/PARTE-5)
 
 
 ## 🧩 PARTE 1 – OCR en Web App Full Stack (Python + TypeScript) COMPLETADO
@@ -119,8 +119,7 @@ Buen uso de dependencias y versión reproducible.
 
 ---
 
-## 🧠 PARTE 5 – RESOLUCIÓN DE PROBLEMAS & DECISION MAKING (AI & Automation Lead)
-
+## 🧠 PARTE 5 – RESOLUCIÓN DE PROBLEMAS & DECISION MAKING (AI & Automation Lead) COMPLETADO
 
 
 Objetivo:
@@ -129,34 +128,49 @@ Evaluar capacidad de liderazgo técnico, resolución de ambigüedad, análisis d
 🧠 Caso 1: Integración multiplataforma
 
 Tu equipo necesita integrar un sistema de scraping de productos que alimente tanto un chatbot (para consultas de clientes) como un dashboard (para analistas de negocio). El cliente quiere respuestas en tiempo real, pero el scraping toma entre 5 y 10 segundos por producto nuevo. ¿Cómo diseñarías esta arquitectura?
+
 🔹 Entrega esperada:
 
 Diagrama del sistema propuesto.
 Estrategia de asincronía, colas o almacenamiento intermedio.
 Justificación técnica.
+
 🧠 Caso 2: Fallo del OCR en producción
 
 Después de lanzar el OCR en producción, se reportan errores en más del 35% de los recibos escaneados (mal reconocimiento de fechas y totales). ¿Cómo abordarías esta situación como líder del área?
+
 🔹 Entrega esperada:
 
 Diagnóstico probable (modelo, input, UX).
 Solución técnica propuesta.
 Priorización de tareas y comunicación con stakeholders.
+
 🧠 Caso 3: Chatbot con datos erróneos
 
 El chatbot devuelve información desactualizada o incorrecta sobre compradores frecuentes. El modelo NLP funciona, pero las respuestas están mal. ¿Cómo organizarías el diagnóstico y corrección?
+
 🔹 Entrega esperada:
 
 Hipótesis de errores (fuente de datos, cacheo, entrenamiento).
+
 Estrategia para testing, logging y validación.
+
 Propuesta para monitoreo y mejora continua.
+
 📁 ENTREGABLES GENERALES
 
 Repositorio con carpetas por sección.
+
 README.md con:
+
 Instrucciones de instalación.
+
 Razonamientos detrás de decisiones clave.
+
 Carpeta docs/ con:
+
 Diagrama de arquitectura.
+
 Documentación de modelo CNN.
+
 Respuestas de resolución de problemas.
