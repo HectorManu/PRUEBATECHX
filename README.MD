@@ -18,10 +18,8 @@ Este repositorio contiene enlaces a otros proyectos de la prueba:
 ## 🧩 PARTE 1 – OCR en Web App Full Stack (Python + TypeScript) COMPLETADO
 
 ## [Clic para demo](https://parte-1.pages.dev/)
-<video width="100%" controls>
-  <source src="assets/demo1.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+<!-- Markdown fallback -->
+![Demo GIF](assets/demo1.gif)
 
 
 
@@ -48,10 +46,9 @@ Buen manejo de errores y UX mínima funcional.
 
 ## [Clic para demo](https://parte-2.onrender.com/docs)
 
-<video  controls>
-  <source src="assets/demo2.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+<!-- Markdown fallback -->
+![Demo GIF](assets/demo2.gif)
+
 
 
 
@@ -76,11 +73,8 @@ Filtros funcionales y bien documentados.
 ## 🧩 PARTE 3 – Chatbot + NLP + Consulta Dinámica COMPLETADO
 
 ## [Clic para demo](https://prueba-3-blbj.onrender.com/)
-
-<video controls>
-  <source src="assets/demo3.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+<!-- Markdown fallback -->
+![Demo GIF](assets/demo3.gif)
 
 Objetivo:
 Desarrollar un chatbot simple con NLP que responda preguntas sobre una base de datos ficticia con dos tablas: Compradores y Deudores.
