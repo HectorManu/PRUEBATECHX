@@ -18,8 +18,8 @@ Este repositorio contiene enlaces a otros proyectos de la prueba:
 ## 🧩 PARTE 1 – OCR en Web App Full Stack (Python + TypeScript) COMPLETADO
 
 ## [Clic para demo](https://parte-1.pages.dev/)
-<!-- Markdown fallback -->
-![Demo GIF](assets/demo1.gif)
+<img src="assets/demo1.gif" style="width: 100%; height: auto;" />
+
 
 
 
@@ -45,9 +45,7 @@ Buen manejo de errores y UX mínima funcional.
 ## 🧩 PARTE 2 – Web Scraping con Endpoint COMPLETADO
 
 ## [Clic para demo](https://parte-2.onrender.com/docs)
-
-<!-- Markdown fallback -->
-![Demo GIF](assets/demo2.gif)
+<img src="assets/demo2.gif" style="width: 100%; height: auto;" />
 
 
 
@@ -73,8 +71,8 @@ Filtros funcionales y bien documentados.
 ## 🧩 PARTE 3 – Chatbot + NLP + Consulta Dinámica COMPLETADO
 
 ## [Clic para demo](https://prueba-3-blbj.onrender.com/)
-<!-- Markdown fallback -->
-![Demo GIF](assets/demo3.gif)
+<img src="assets/demo3.gif" style="width: 100%; height: auto;" />
+
 
 Objetivo:
 Desarrollar un chatbot simple con NLP que responda preguntas sobre una base de datos ficticia con dos tablas: Compradores y Deudores.
@@ -99,7 +97,10 @@ Diseño modular para escalar futuras preguntas.
 
 ---
 
-## 🧩 PARTE 4 – IA: CNN + API Predictiva
+## 🧩 PARTE 4 – IA: CNN + API Predictiva COMPLETO
+
+## [Clic para demo](https://parte-4.pages.dev/)
+<img src="assets/demo4.gif" style="width: 100%; height: auto;" />
 
 Objetivo:
 Entrenar una red neuronal convolucional (CNN) y exponerla como servicio web.
@@ -119,6 +120,9 @@ Buen uso de dependencias y versión reproducible.
 ---
 
 ## 🧠 PARTE 5 – RESOLUCIÓN DE PROBLEMAS & DECISION MAKING (AI & Automation Lead)
+
+
+
 Objetivo:
 Evaluar capacidad de liderazgo técnico, resolución de ambigüedad, análisis de tradeoffs, y diseño de sistemas escalables.
 
