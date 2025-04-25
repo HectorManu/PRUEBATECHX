@@ -17,7 +17,9 @@ Este repositorio contiene enlaces a otros proyectos de la prueba:
 
 ## 🧩 PARTE 1 – OCR en Web App Full Stack (Python + TypeScript) COMPLETADO
 
-<video src="assets/demo.gif" width="600" autoplay loop muted></video>
+<!-- Markdown fallback -->
+![Demo GIF](assets/demo.gif)
+
 
 
 ---
