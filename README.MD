@@ -1,5 +1,19 @@
 # Aquí está la resolución de una prueba técnica para TechX
 > Debido a la extención de la prueba para volver pesado el repositorio se mantendrá por separado con su respectivo link en cada carpeta de este mismo, puden consultar cada Carpeta y su respectivo proyecto a continuación.
+
+# 🧭 Repositorio Central
+
+Este repositorio contiene enlaces a otros proyectos:
+
+## 🔗 Sub-repositorios
+
+- 📁 [PARTE 1 – OCR en Web App Full Stack (Python + TypeScript)]()
+- 📁 [PARTE 2 – Web Scraping con Endpoint]()
+- 📁 [PARTE 3 – Chatbot + NLP + Consulta Dinámica]()
+- 📁 [PARTE 4 – IA: CNN + API Predictiva]()
+- 📁 [PARTE 5 – RESOLUCIÓN DE PROBLEMAS & DECISION MAKING (AI & Automation Lead)]()
+
+
 ## 🧩 PARTE 1 – OCR en Web App Full Stack (Python + TypeScript)
 ---
 Objetivo:
@@ -36,6 +50,8 @@ Estructura clara de la base de datos.
 Filtros funcionales y bien documentados.
 
 ---
+
+
 ## 🧩 PARTE 3 – Chatbot + NLP + Consulta Dinámica
 Objetivo:
 Desarrollar un chatbot simple con NLP que responda preguntas sobre una base de datos ficticia con dos tablas: Compradores y Deudores.
