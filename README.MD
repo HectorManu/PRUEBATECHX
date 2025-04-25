@@ -1,9 +1,9 @@
 # Aquí está la resolución de una prueba técnica para TechX
 > Debido a la extención de la prueba para volver pesado el repositorio se mantendrá por separado con su respectivo link en cada carpeta de este mismo, puden consultar cada Carpeta y su respectivo proyecto a continuación.
 
-# 🧭 Repositorio Central
+## 🧭 Repositorio Central
 
-Este repositorio contiene enlaces a otros proyectos:
+Este repositorio contiene enlaces a otros proyectos de la prueba:
 
 ## 🔗 Sub-repositorios
 
