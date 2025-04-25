@@ -17,6 +17,7 @@ Este repositorio contiene enlaces a otros proyectos de la prueba:
 
 ## 🧩 PARTE 1 – OCR en Web App Full Stack (Python + TypeScript) COMPLETADO
 
+[Clic para demo](https://parte-1.pages.dev/)
 <!-- Markdown fallback -->
 ![Demo GIF](assets/demo.gif)
 
