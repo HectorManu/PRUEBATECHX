@@ -17,7 +17,7 @@ Este repositorio contiene enlaces a otros proyectos de la prueba:
 
 ## 🧩 PARTE 1 – OCR en Web App Full Stack (Python + TypeScript) COMPLETADO
 
-<video src="assets/demo.webm" width="600" autoplay loop muted></video>
+<video src="assets/Grabación de pantalla desde 24-04-25 21:55:09.webm" width="600" autoplay loop muted></video>
 
 
 ---
