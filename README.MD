@@ -9,7 +9,7 @@ Este repositorio contiene enlaces a otros proyectos de la prueba:
 
 - 📁 ✅ [PARTE 1 – OCR en Web App Full Stack (Python + TypeScript) BACKEND](https://github.com/HectorManu/PARTE-1-BACK)
 - 📁 ✅ [PARTE 1 – OCR en Web App Full Stack (Python + TypeScript) FRONTEND](https://github.com/HectorManu/PARTE-1)
-- 📁 🔃[PARTE 2 – Web Scraping con Endpoint]()
+- 📁 ✅[PARTE 2 – Web Scraping con Endpoint](https://github.com/HectorManu/PARTE-2)
 - 📁 🔃[PARTE 3 – Chatbot + NLP + Consulta Dinámica]()
 - 📁 🔃[PARTE 4 – IA: CNN + API Predictiva]()
 - 📁 🔃[PARTE 5 – RESOLUCIÓN DE PROBLEMAS & DECISION MAKING (AI & Automation Lead)]()
@@ -17,7 +17,7 @@ Este repositorio contiene enlaces a otros proyectos de la prueba:
 
 ## 🧩 PARTE 1 – OCR en Web App Full Stack (Python + TypeScript) COMPLETADO
 
-[Clic para demo](https://parte-1.pages.dev/)
+## [Clic para demo](https://parte-1.pages.dev/)
 <!-- Markdown fallback -->
 ![Demo GIF](assets/demo.gif)
 
@@ -43,6 +43,16 @@ Buen manejo de errores y UX mínima funcional.
 
 
 ## 🧩 PARTE 2 – Web Scraping con Endpoint
+
+## [Clic para demo](https://parte-2.onrender.com/docs)
+
+<video width="100%" controls>
+  <source src="assets/demo2.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
+
+
 Objetivo:
 Crear un script que haga scraping de una web de productos (libros, electrónicos, etc.) y exponga los datos por API.
 
