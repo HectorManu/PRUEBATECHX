@@ -7,14 +7,18 @@ Este repositorio contiene enlaces a otros proyectos de la prueba:
 
 ## 🔗 Sub-repositorios
 
-- 📁 [PARTE 1 – OCR en Web App Full Stack (Python + TypeScript)]()
+- 📁 [PARTE 1 – OCR en Web App Full Stack (Python + TypeScript) BACKEND](https://github.com/HectorManu/PARTE-1-BACK)
+- 📁 [PARTE 1 – OCR en Web App Full Stack (Python + TypeScript) FRONTEND](https://github.com/HectorManu/PARTE-1)
 - 📁 [PARTE 2 – Web Scraping con Endpoint]()
 - 📁 [PARTE 3 – Chatbot + NLP + Consulta Dinámica]()
 - 📁 [PARTE 4 – IA: CNN + API Predictiva]()
 - 📁 [PARTE 5 – RESOLUCIÓN DE PROBLEMAS & DECISION MAKING (AI & Automation Lead)]()
 
 
-## 🧩 PARTE 1 – OCR en Web App Full Stack (Python + TypeScript)
+## 🧩 PARTE 1 – OCR en Web App Full Stack (Python + TypeScript) COMPLETADO
+
+<video src="assets/demo.mp4" width="600" autoplay loop muted></video>
+
 ---
 Objetivo:
 Construir una pequeña aplicación que permita subir una imagen de un recibo, procesarla con OCR (Tesseract) y visualizar los datos detectados.
