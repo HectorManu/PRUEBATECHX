@@ -10,7 +10,7 @@ Este repositorio contiene enlaces a otros proyectos de la prueba:
 - 📁 ✅ [PARTE 1 – OCR en Web App Full Stack (Python + TypeScript) BACKEND](https://github.com/HectorManu/PARTE-1-BACK)
 - 📁 ✅ [PARTE 1 – OCR en Web App Full Stack (Python + TypeScript) FRONTEND](https://github.com/HectorManu/PARTE-1)
 - 📁 ✅[PARTE 2 – Web Scraping con Endpoint](https://github.com/HectorManu/PARTE-2)
-- 📁 🔃[PARTE 3 – Chatbot + NLP + Consulta Dinámica]()
+- 📁 ✅[PARTE 3 – Chatbot + NLP + Consulta Dinámica](https://github.com/HectorManu/PRUEBA-3)
 - 📁 🔃[PARTE 4 – IA: CNN + API Predictiva]()
 - 📁 🔃[PARTE 5 – RESOLUCIÓN DE PROBLEMAS & DECISION MAKING (AI & Automation Lead)]()
 
@@ -18,8 +18,10 @@ Este repositorio contiene enlaces a otros proyectos de la prueba:
 ## 🧩 PARTE 1 – OCR en Web App Full Stack (Python + TypeScript) COMPLETADO
 
 ## [Clic para demo](https://parte-1.pages.dev/)
-<!-- Markdown fallback -->
-![Demo GIF](assets/demo.gif)
+<video width="100%" controls>
+  <source src="assets/demo1.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
 
 
 
@@ -42,14 +44,15 @@ Buen manejo de errores y UX mínima funcional.
 ---
 
 
-## 🧩 PARTE 2 – Web Scraping con Endpoint
+## 🧩 PARTE 2 – Web Scraping con Endpoint COMPLETADO
 
 ## [Clic para demo](https://parte-2.onrender.com/docs)
 
-<video width="100%" controls>
+<video  controls>
   <source src="assets/demo2.mp4" type="video/mp4">
   Tu navegador no soporta la etiqueta de video.
 </video>
+
 
 
 
@@ -70,7 +73,15 @@ Filtros funcionales y bien documentados.
 ---
 
 
-## 🧩 PARTE 3 – Chatbot + NLP + Consulta Dinámica
+## 🧩 PARTE 3 – Chatbot + NLP + Consulta Dinámica COMPLETADO
+
+## [Clic para demo](https://prueba-3-blbj.onrender.com/)
+
+<video controls>
+  <source src="assets/demo3.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
 Objetivo:
 Desarrollar un chatbot simple con NLP que responda preguntas sobre una base de datos ficticia con dos tablas: Compradores y Deudores.
 
